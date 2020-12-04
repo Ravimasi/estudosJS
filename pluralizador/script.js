@@ -14,3 +14,5 @@ function pluralize(substantivo,num1){
   }
 }
 pluralize("maça",1)
+
+// preciso consertar
